@@ -1,4 +1,5 @@
 _repo: Tuscan-folk-lore-and-sketches-together-with-some-other-papers_49497
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -8,12 +9,17 @@ contributor:
     - agent_name: Anderton, H. Orsmond
       gutenberg_agent_id: '45368'
       url: http://www.gutenberg.org/2009/agents/45368
+covers:
+- cover_type: archival
+  image_path: 49497-h/images/cover.jpg
 creator:
   author:
     agent_name: Anderton, Isabella M.
     gutenberg_agent_id: '45367'
     url: http://www.gutenberg.org/2009/agents/45367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49497#Tuscan-folk-lore-and-sketches-together-with-some-other-papers
 gutenberg_issued: '2015-07-21'
 gutenberg_type: Text
 identifiers:
